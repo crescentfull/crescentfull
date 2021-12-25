@@ -4,9 +4,8 @@
 -->
 <div align="center">
 
-# YEONGROK SONG
-### Hi there, I'm Seungjun Moon👋
-
+# YEONGROK SONG 😁
+  
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crescentfull&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
