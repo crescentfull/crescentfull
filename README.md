@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Yeongrok Song</h1>
 <img align="right" alt="" width="350" src="https://github.com/crescentfull/intro/blob/main/1.jpg?raw=true"/>
 
-- 📫 How to reach me **songyeongrok11@gmail.com**
+- 📫 How to reach me : **songyeongrok11@gmail.com**
 
 </p>
 
