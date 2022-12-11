@@ -5,7 +5,8 @@
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@sicksong)
 
 <h1 align="center">Yeongrok Song</h1>
-
+ 
+ ## - currently self learning python
  ## - 📫 How to reach me : **songyeongrok11@gmail.com**
  
 </div>
@@ -13,7 +14,7 @@
 
 
 <div>
-<img align="right" alt="" width="300" src="https://github.com/crescentfull/intro/blob/main/1.jpg?raw=true"/>
+<img align="right" alt="" width="400" src="https://github.com/crescentfull/intro/blob/main/1.jpg?raw=true"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
