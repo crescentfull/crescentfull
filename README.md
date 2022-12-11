@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/306_song) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@sicksong)
 
-<h1 align="center">Hi 👋, I'm Yeongrok Song</h1>
+<h1 align="center">Yeongrok Song</h1>
 
  ## - 📫 How to reach me : **songyeongrok11@gmail.com**
  
