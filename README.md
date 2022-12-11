@@ -13,10 +13,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,jquery,py,django,flask,vscode,mysql,js,html,css,aws,git,github&perline=8)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crescentfull&count_private=true&include_all_commits=true&show_icons=true&card_width=550&theme=dark)](https://github.com/crescentfull/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crescentfull&count_private=true&include_all_commits=true&show_icons=true&card_width=450&theme=dark)](https://github.com/crescentfull/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crescentfull&theme=dark&card_width=500&layout=compact)](https://github.com/crescentfull/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crescentfull&theme=dark&card_width=400&layout=compact)](https://github.com/crescentfull/github-readme-stats)
 
 
 <div align="center"> 
