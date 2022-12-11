@@ -13,7 +13,7 @@
 
 
 <div>
-<img align="right" alt="" width="500" src="https://github.com/crescentfull/intro/blob/main/1.jpg?raw=true"/>
+<img align="right" alt="" width="300" src="https://github.com/crescentfull/intro/blob/main/1.jpg?raw=true"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
