@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,jquery,py,django,flask,vscode,mysql,js,html,css,aws,git,github&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,jquery,py,django,flask,vscode,mysql,js,html,css,aws,git,github&perline=8)](https://skillicons.dev)
 
 <div align="center"> 
   
