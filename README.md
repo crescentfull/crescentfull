@@ -22,7 +22,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crescentfull&count_private=true&include_all_commits=true&show_icons=true&card_width=450&theme=dark)](https://github.com/crescentfull/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crescentfull&theme=dark&card_width=400&layout=compact)](https://github.com/crescentfull/github-readme-stats)
+
 
 
 <div align="center"> 
