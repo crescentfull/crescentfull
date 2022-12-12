@@ -6,8 +6,8 @@
 
 <h1 align="center">Yeongrok Song</h1>
  
- ## - currently self learning python
- ## - 📫 How to reach me : **songyeongrok11@gmail.com**
+ ### - currently self learning python
+ ### - 📫 : **songyeongrok11@gmail.com**
  
 </div>
 
