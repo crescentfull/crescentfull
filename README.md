@@ -10,7 +10,6 @@
 <div class="body" align="center">
  <div class="article1" align="left">
  
-  ### - currently self learning python
   ### - 📫 : **songyeongrok11@gmail.com**
 
   ### Languages and Tools:
