@@ -2,12 +2,10 @@
  <div class="header">
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:songyeongrok11@gmail.com) 
- [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@sicksong)
+ [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@sicksong)
 
  <h1 align="center">Yeongrok Song</h1>
-<div>
  
-<div class="body" align="center">
  <div class="article1" align="left">
  
   ### - 📫 : **songyeongrok11@gmail.com**
@@ -17,12 +15,11 @@
 <!--  [![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,jquery,py,django,flask,vscode,mysql,js,html,css,aws,git,github&perline=8)](https://skillicons.dev) -->
  </div>
 
-
-  [![crescentfull's GitHub stats](https://github-readme-stats.vercel.app/api?username=crescentfull&count_private=true&include_all_commits=true&show_icons=true&card_width=400&theme=dark)](https://github.com/crescentfull/github-readme-stats)
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crescentfull&theme=dark&card_width=350&layout=compact)](https://github.com/crescentfull/github-readme-stats)
-
+<div align="center">
+ 
+  [![crescentfull's GitHub stats](https://github-readme-stats.vercel.app/api?username=crescentfull&count_private=true&include_all_commits=true&show_icons=true&card_width=400&theme=dark)](https://github.com/crescentfull/github-readme-stats) 
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crescentfull&theme=dark&card_width=400&line_height=30&layout=compact)](https://github.com/crescentfull/github-readme-stats) -->
+</div>
 
 <div align="center"> 
  
