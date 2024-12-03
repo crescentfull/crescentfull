@@ -2,7 +2,7 @@
  <div class="header">
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:songyeongrok11@gmail.com) 
- [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@sicksong)
+ [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://crescentfull.github.io/)
 
  <h1 align="center">Yeongrok Song</h1>
  
