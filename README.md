@@ -5,6 +5,10 @@
  [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://crescentfull.github.io/)
 
  <h1 align="center">Yeongrok Song</h1>
+ ---
+ “ The limits of me mean the limits of my language. The limits of my language mean the limit of the world “ <br/>
+ _Ludwig Wittgenstein
+ 
  
  <div class="article1" align="left">
  
