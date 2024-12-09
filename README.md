@@ -9,7 +9,8 @@
  
  
    <h3 align="center">
-  “ The limits of me mean the limits of my language. The limits of my language mean the limit of the world “ <br/>
+  “ The limits of me mean the limits of my language.<br/>
+    The limits of my language mean the limit of the world “ <br/>
    _Ludwig Wittgenstein
    </h3>
 
