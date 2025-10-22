@@ -5,22 +5,80 @@
  
  </div>
  
-   <h1 align="center">Yeongrok Song</h1>
- 
- 
-   <h3 align="center">
-  “ The limits of me mean the limits of my language.<br/>
-    The limits of my language mean the limit of the world “ <br/>
-   _Ludwig Wittgenstein
-   </h3>
+<h1 align="center">송영록 Song Yeong-Rok</h1>
 
- ---
- 
-<div class="article1" align="left">
+철학과 컴퓨터과학을 함께 공부한 백엔드 개발자입니다.
+사용자의 문제를 해결하는 견고하고 확장 가능한 시스템을 만드는 데 집중하며,
+Django 중심의 다양한 프로젝트를 주도적으로 설계·개발했습니다.
+코드를 넘어, 만드는 도메인의 이해, 테스트 주도 개발과 명확한 커뮤니케이션이 좋은 시스템의 기반이라고 믿습니다.
 
-  ### - 📫 : **songyeongrok11@gmail.com**
+---
 
-<!--   ### Languages and Tools: -->
+#### - 📫 : **songyeongrok11@gmail.com**
 
-<!--  [![My Skills](https://skillicons.dev/icons?i=java,spring,eclipse,jquery,py,django,flask,vscode,mysql,js,html,css,aws,git,github&perline=8)](https://skillicons.dev) -->
-</div>
+## Projects
+
+### **Life Diary (사후기록형 웹 플래너 다이어리)** / 개인프로젝트, 한국방송통신대학 소프트웨어 경진대회 입상-장려상
+**문제:** 하루를 회고하고 기록할 수 있는 서비스가 일정 중심으로만 구성되어 있다.  
+**해결:** 하루를 10분 단위로 나누어 활동을 기록하고, 일과 패턴을 시각화할 수 있는 웹 다이어리를 개발했다.  
+**결과:** 사용자는 자신의 하루를 데이터 기반으로 되돌아보고, 집중·휴식 패턴을 분석할 수 있다.  
+**기술 스택:** `Python`, `Django 5`, `HTMX`, `Alpine.js`, `Chart.js`, `Render`  
+
+
+---
+
+### **졸업요건 판독 사이트 (Graduation Requirement Analyzer)** / 개인프로젝트
+**문제:** 건국대학교 철학과의 복잡한 졸업 요건을 학생들이 직접 확인하기 어렵다.  
+**해결:** 사용자가 성적표를 업로드하면, 교과 이수 내역을 기준으로 졸업 요건 충족 여부를 자동으로 분석하는 웹사이트를 개발했다.  
+**결과:** 졸업 가능 여부를 직관적으로 보여주며, 반복적인 행정 문의를 줄였다.  
+**기술 스택:** `Python`, `Django`, `Pandas`, `NumPy`, `Render`
+
+---
+
+### **Coaching Sospeso (비영리단체 회계 정산 시스템)** / 코칭-소스페소
+**문제:** 비영리단체에서 코칭 세션과 회계 내역을 따로 관리해야 해 비효율이 발생했다.  
+**해결:** 세션 기록, 예산 배분, 회계 정산을 통합 관리할 수 있는 웹 기반 시스템을 설계했다.  
+**결과:** 단체 내부에서 투명한 예산 추적이 가능해지고, 회계 처리 시간이 단축되었다.  
+**기술 스택:** `TypeScript`, `Node.js`, `Drizzle ORM`, `Astro`, `Vitest`, `PostgreSQL`
+
+---
+
+### **실시간 웹 채팅** 개인프로젝트 / 개인프로젝트
+**문제:** 팀 내 간단한 커뮤니케이션을 위한 실시간 채팅 시스템이 필요했다.
+**해결:** `WebSocket` 기반의 `Django Channels`로 다중 사용자 간 실시간 메시징 기능을 구현했다.  
+**결과:** 간단하면서도 안정적인 채팅 환경을 구축했으며, 다른 프로젝트의 협업 기능에 재사용 가능했다.  
+**기술 스택:** `Python`, `Django Channels`, `Redis`, `JavaScript`, `WebSocket`
+
+---
+
+### **Cherground POS (포스 시스템)** / 스타트업 인턴 프로젝트(쉐어그라운드)
+**문제:** 소규모 상점과 비영리단체가 사용할 수 있는 간단한 POS 시스템이 부족했다.  
+**해결:** `Django ORM`으로 거래, 매출, 재고를 관리하고 실시간 잔액 계산 기능을 포함한 POS 백오피스를 개발했다.  
+**결과:** 별도의 회계 지식 없이도 단체 운영자가 거래 내역을 관리할 수 있게 되었다.  
+**기술 스택:** `Python`, `Django`, `MySQL`, `Docker`, `Bootstrap`, `Render`
+
+---
+
+### **SUNKREAM (패션 중개거래 리셀 사이트 클론)** / 부트캠프(WECODE)
+**문제:** 한정판 스니커 거래 플랫폼의 구조와 실시간 매칭 로직을 학습하기 어려웠다.  
+**해결:** `Django REST Framework`를 활용해 입찰·판매·정산 흐름을 직접 구현한 `KREAM` 클론 프로젝트를 제작했다.  
+**결과:** 거래 로직과 주문 매칭 시스템을 완성해 실서비스 수준의 백엔드 구조를 익혔다.  
+**기술 스택:** `Python`, `Django`, `MySQL`, `AWS EC2 & RDS`, `JWT`
+
+---
+
+### **SPAOGAME (SPAO 패션 쇼핑몰 클론)** / 부트캠프(WECODE)
+**문제:** SPA 브랜드 웹사이트 구조와 상품 관리 로직을 학습할 수 있는 예제가 부족했다.  
+**해결:** `SPAO` 공식몰을 모델로 삼아 상품 목록, 필터링, 리뷰 기능을 갖춘 클론 웹사이트를 제작했다.  
+**결과:** 실제 전자상거래 흐름(회원가입–상품조회–결제)을 완전하게 구현하며 프론트·백엔드 연동 경험을 쌓았다.  
+**기술 스택:** `Python`, `Django`, `MySQL`, `HTML/CSS`, `JavaScript`
+
+---
+
+### **UMODA (팬션 예약 관리 사이트)** / 국비지원학원(강남그린컴퓨터아카데미)
+**문제:** 소규모 팬션이 예약·결제·관리 기능을 통합적으로 운영하기 어렵다.  
+**해결:** 관리자와 사용자 페이지를 분리한 예약 관리 시스템을 개발하여, 달력 기반의 예약 현황 관리와 자동 결제 확인 기능을 제공했다.  
+**결과:** 운영자가 손쉽게 예약·취소·정산을 처리할 수 있는 시스템으로 개선되었다.  
+**기술 스택:** `Java`, `Spring`, `MySQL`, `MyBatis`,  `Bootstrap`, `JavaScript`
+
+---
